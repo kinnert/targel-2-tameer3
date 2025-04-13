@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.printf("hjh");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a sentence:");
         String input = scanner.nextLine();
